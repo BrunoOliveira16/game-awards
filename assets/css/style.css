@@ -1,0 +1,22 @@
+* {
+    max-width: 1440px;
+    box-sizing: border-box;
+    margin: 0 auto 0 auto;
+}
+
+body {
+    background: url(../img/a04739bddfbca4a72edfa6b7d4112d3d.jpg);
+}
+
+.nav-item a:hover {
+    font-weight: 700;
+}
+
+header {
+    margin-bottom: 50px;
+}
+
+.carousel-item img {
+    width: 60%;
+    height: 500px;
+}
