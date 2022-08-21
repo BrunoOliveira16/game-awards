@@ -19,8 +19,8 @@
 </head>
 <body>
 
-    <header>
-        <nav class="navbar navbar-expand-lg bg-dark">
+    <header class="bg-black">
+        <nav class="navbar navbar-expand-lg bg-black">
             <div class="container-fluid">
               <a class="navbar-brand" href="#">PortalAwards</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -99,6 +99,7 @@
                   <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                   <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
                   <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
                 </div>
                 <div class="carousel-inner">
                   <div class="carousel-item active" data-bs-interval="4000">
@@ -113,10 +114,16 @@
                       <h1>Oitava Geração</h1>
                     </div>
                   </div>
-                  <div class="carousel-item">
+                  <div class="carousel-item" data-bs-interval="3000">
                     <img src="./assets/img/best-2021-01.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                       <h1>Melhores de 2021</h1>
+                    </div>
+                  </div>
+                  <div class="carousel-item" data-bs-interval="3000">
+                    <img src="./assets/img/nona-geracao-slide.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h1>Nona Geração</h1>
                     </div>
                   </div>
                 </div>
@@ -134,7 +141,7 @@
 
     <!-- Seção de cards de páginas -->
     <section>
-
+      <hr class="featurette-divider">
       <h1 class="title-h1">Navegue pelas últimas postagens nos cards abaixo</h1>
 
       <div class="container" id="card">
@@ -203,8 +210,99 @@
       </div> 
     </section>
 
+    <!-- Seção de posts de expectativas -->
+    <section class="expect-section bg-dark">
+      <div class="container container-fluid">
+
+        <!-- Titulo da Seção -->
+        <div class="col border-bottom" >
+          <h1 class="title-h1 py-3">Previsões e Expectativas</h1>
+          <h5 class="text-white text-center">Acompanhe nossos posts sobre os últimos furos, previsões e rumores no universo dos video games</h5><br>
+        </div>
+
+        <!-- Postagem de blog 01 -->
+        <hr class="featurette-divider">
+        <div class="row">
+          <div class="col-md-3">
+            <img src="./assets/img/prev-01.jpg" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-6">
+            <article class="blog-post">
+              <h3 class="blog-post-title text-light mb-1">The Ragnarok is Coming...</h3>
+              <p class="blog-post-meta text-secondary">Agosto 21, 2022 by Bruno Oliveira</p>
+              <p class= "text-light">Após o anuncio da data de lançamento da mais nova continuação da saga de Kratos para novembro de 2022, quais as nossas expectativas e oque achamos desta nova trama sendo produzida pela Santa Monica Studios...<a href="#">Venha Conferir</a></p>
+            </article>
+          </div>
+        </div>
+
+        <!-- Postagem de blog 02 -->
+        <hr class="featurette-divider">
+        <div class="row">
+          <div class="col-md-3">
+            <img src="./assets/img/prev-02.jpg" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-6">
+            <article class="blog-post">
+              <h3 class="blog-post-title text-light mb-1">Starfield o RPG no espaço da Bethesda</h3>
+              <p class="blog-post-meta text-secondary">Agosto 20, 2022 by Bruno Oliveira</p>
+              <p class= "text-light">Após o anuncio de adiamento do lançamento de Starfield para o primeiro semestre de 2023, oque esperar deste que é um dos mais ambiciosos RPG's já criados pela Bethesda e oque achamos desta nova IP...<a href="#">Venha Conferir</a></p>
+            </article>
+          </div>
+        </div>
+
+        <!-- Postagem de blog 03 -->
+        <hr class="featurette-divider">
+        <div class="row">
+          <div class="col-md-3">
+            <img src="./assets/img/prev-03.jpg" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-6">
+            <article class="blog-post">
+              <h3 class="blog-post-title text-light mb-1">A Nova Geração de Pokémon está chegando</h3>
+              <p class="blog-post-meta text-secondary">Agosto 19, 2022 by Bruno Oliveira</p>
+              <p class= "text-light">Com o anuncio da data de lançamento da nova geração da franquia da Game Freak para novembro de 2022 oque podemos esperar para o lançamento de Pokémon Scarlet & Violet? Quais os novos monstrinhos divulgados?<a href="#">Venha Conferir</a></p>
+            </article>
+          </div>
+        </div>
+        <hr class="featurette-divider">
+
+        <!-- Postagem de blog 04 -->
+        <hr class="featurette-divider">
+        <div class="row">
+          <div class="col-md-3">
+            <img src="./assets/img/prev-04.jpg" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-6">
+            <article class="blog-post">
+              <h3 class="blog-post-title text-light mb-1">Street Fighter 6 é anunciado</h3>
+              <p class="blog-post-meta text-secondary">Agosto 19, 2022 by Bruno Oliveira</p>
+              <p class= "text-light">Finalmente a Capcom soltou informações sobre a continuação da sua maior franquia de luta, e com isso as analises e previsões começam a aparecer encima do mais novo título de Street Fighter.<a href="#">Venha Conferir</a></p>
+            </article>
+          </div>
+        </div>
+
+        <!-- Postagem de blog 05 -->
+        <hr class="featurette-divider">
+        <div class="row">
+          <div class="col-md-3">
+            <img src="./assets/img/prev-01.jpg" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-6">
+            <article class="blog-post">
+              <h3 class="blog-post-title text-light mb-1">The Ragnarok is Coming...</h3>
+              <p class="blog-post-meta text-secondary">Agosto 19, 2022 by Bruno Oliveira</p>
+              <p class= "text-light">Após o anuncio da data de lançamento da mais nova continuação da saga de Kratos para novembro de 2022, quais as nossas expectativas e oque achamos desta nova trama sendo produzida pela Santa Monica Studios...<a href="#">Venha Conferir</a></p>
+            </article>
+          </div>
+        </div>
+
+        <hr class="featurette-divider">
+      </div>
+    </section>
+
+    <!-- Footer -->
     <div class="container container-fluid">
-      <footer class="bg-dark">
+      <footer class="bg-black">
 
         <div class="row">
   
