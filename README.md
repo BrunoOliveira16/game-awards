@@ -7,10 +7,12 @@ https://brunooliveira16.github.io/the-game-awards/
 
 ## SCREENSHOT DO PROJETO
 
-Designer 01
+  Designer 01
+
 ![Screenshot](./assets/img/designer-01.jpg)
 
-Designer 02
+  Designer 02
+
 ![Screenshot](./assets/img/designer-02.jpg)
 
 ## DESCRIÇÃO
