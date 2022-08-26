@@ -1,30 +1,35 @@
-# the-game-awards
-Projeto web site gamer completo utilizando bootstrap, JQuery e conceitos de layout responsivo.
+## 📝 Projet game-awards
 
-## LINK PARA NAVEGADOR
+-Projeto de criação de um web-site gamer que possa oferecer uma experiência agradavel ao usuário.
 
-https://brunooliveira16.github.io/the-game-awards/
+## 💻 Screenshot do projeto
 
-## SCREENSHOT DO PROJETO
-
-  Designer 01
-
+Designer 01
 ![Screenshot](./assets/img/designer-01.jpg)
 
-  Designer 02
-
+Designer 02
 ![Screenshot](./assets/img/designer-02.jpg)
 
-## DESCRIÇÃO
-O projeto consiste em um web site que possui a missão de trazer conteúdo relevante para o público gamer em geral, possuindo tópicos como lista de dez melhores jogos listados por ano, informações sobre as gerações de consoles, portal de noticias, trazendo as maiores novidades do mundo gamer, blog de analise de jogos e muito mais.
+<h4 align="center"><a href="https://brunooliveira16.github.io/the-game-awards/">Clique aqui e visite o projeto</a></h4>
 
-Em construção...
-## TECNOLOGIAS UTILIZADAS
+## 📚 Descrição
+O projeto consiste em um web site que possui a missão de trazer conteúdo relevante para o público gamer em geral, possuindo tópicos como:
+- **lista de dez melhores jogos:**Oferece uma experiência organizada por ano de lançamento, podendo visualizar os dez melhores do período.
+- **Gerações de Consoles:**Informações base dos concoles lançados das diferentes gerações.
+- **Portal de Noticias:**experiência com o intuito de fornecer as noticias mais relevantes e previsões do mundo dos games.
+- **Analise de Jogos:**conteúdo voltado para descrever a experiência obtida em determinado jogo.
+
+---
+
+## 💼 Tecnologias utilizadas
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap V5.2.0
 - jQuery V3.6.0
 
-## AUTOR
-- Bruno Oliveira
+---
+
+## 🙋🏻‍♂️ Autor
+
+Bruno Oliveira
