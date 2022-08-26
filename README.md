@@ -10,7 +10,7 @@ Designer 01
 Designer 02
 ![Screenshot](./assets/img/designer-02.jpg)
 
-<h4 align="center"><a href="https://brunooliveira16.github.io/the-game-awards/">Clique aqui e visite o projeto</a></h4>
+<h4 align="center"><a href="https://brunooliveira16.github.io/game-awards/">Clique aqui e visite o projeto</a></h4>
 
 ## 📚 Descrição
 O projeto consiste em um web site que possui a missão de trazer conteúdo relevante para o público gamer em geral, possuindo tópicos como:
