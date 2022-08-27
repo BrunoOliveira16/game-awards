@@ -1,0 +1,49 @@
+@media (max-width: 995px) {
+    .navbar .navbar-toggler {
+        background-color: rgb(90, 129, 31);
+    }
+
+    .navbar .navbar-toggler:hover {
+        background-color: rgb(213, 224, 196);
+        box-shadow: 0px 2px 18px rgb(200, 240, 141);;
+    }
+}
+
+@media (max-width: 800px) {
+    html, body, .sec-a, .sec-b {
+        background: none !important;
+        background-color: rgba(var(--bs-dark-rgb)) !important;
+        min-width: 360px;
+    }
+
+    #list-footer, #list-footer-01 {
+        display: flex;
+        width: 50%;
+        margin-bottom: 20px;
+        padding: 0;
+     }
+}
+
+@media (max-width: 661px) {
+    .carousel-item img {
+        height: 300px;
+    }
+    
+    footer {
+        padding-left: 50px;
+    }
+
+    #footer-main input, button {
+        height: 40px;
+    }
+
+    #footer-main button {
+        width: 50% !important;
+    }
+}
+
+@media (max-width: 420px) {    
+    #footer-main button {
+        width: 100% !important;
+    }
+}
