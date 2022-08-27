@@ -1,6 +1,6 @@
 ## 📝 Projeto game-awards
 
--Projeto de criação de um web-site gamer que possa oferecer uma experiência agradavel ao usuárioque busca informações relevantes a este nicho de mercado.
+-Projeto de criação de um web-site gamer que possa oferecer uma experiência agradavel ao usuário que busca informações relevantes a este nicho de mercado.
 
 ## 💻 Screenshot do projeto
 
