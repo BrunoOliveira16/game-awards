@@ -10,7 +10,7 @@ Designer 01
 Designer 02
 ![Screenshot](./assets/img/designer-02.jpg)
 
-<h4 align="center"><a href="https://630a80cf2de66e40ffe74da3--endearing-gecko-47780f.netlify.app/">Clique aqui e visite o projeto</a></h4>
+<h4 align="center"><a href="https://630a895f94f02845170aa3b8--endearing-gecko-47780f.netlify.app/">Clique aqui e visite o projeto</a></h4>
 
 ## 📚 Descrição
 O projeto consiste em um web site que possui a missão de trazer conteúdo relevante para o público gamer em geral, possuindo tópicos como:
